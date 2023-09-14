@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.0/src/libkdegames-23.08.0.tar.xz",
-                    "sha256": "8799c705256b8d8735070058ecc6dea72c54e2500f179d9654ec2a86e41bcb8a",
+                    "url": "https://download.kde.org/stable/release-service/23.08.1/src/libkdegames-23.08.1.tar.xz",
+                    "sha256": "0ea260a762bf9dcc27f793fea1628c7653383ab5b5e41e50cf2ae4a62aa7db97",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.0/src/knavalbattle-23.08.0.tar.xz",
-                    "sha256": "193f5cb1f1ce1cb01686aa572ca6d08f7da19c7b711ff5290dfff5ca16b9df6d",
+                    "url": "https://download.kde.org/stable/release-service/23.08.1/src/knavalbattle-23.08.1.tar.xz",
+                    "sha256": "4c07665c2342d49811924cb3fc8a979695e95145315503976d90919c865cc257",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
