@@ -6,11 +6,11 @@
     "command": "knavalbattle",
     "rename-icon": "knavalbattle",
     "finish-args": [
+        "--device=dri",
         "--share=ipc",
-        "--socket=x11",
-        "--socket=wayland",
         "--share=network",
-        "--device=dri"
+        "--socket=fallback-x11",
+        "--socket=wayland"
     ],
     "modules": [
         {
